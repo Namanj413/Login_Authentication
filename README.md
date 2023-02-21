@@ -13,7 +13,7 @@ up with the help of MongoDB.
 6.Project is Live at Netlify with the help of FakeuserAPI f
   login on Free Server. 
   
- <b>Update @ Jan 2021<b>
+ <b>Update @ Jan 2023<b>
   1. Admin can add members.
   2. Admin can delete members also can see the list of people which is added by him.
   3. Singup page is available for normal users
