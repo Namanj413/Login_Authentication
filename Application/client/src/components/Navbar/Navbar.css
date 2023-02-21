@@ -1,0 +1,17 @@
+.navbar-container {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    max-width: 1500px;
+    background-color: rgba(0, 255, 81, 0);
+    padding: 1%;
+    position: -webkit-sticky;
+    border-bottom: 10x solid green;
+
+    
+
+}
+
+.nav-link{
+ color: green;
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afb6174e.css",
+    "main.js": "/static/js/main.e8e2ef89.js",
+    "static/media/singup.jpg": "/static/media/singup.21e8ba3f9dca3c346851.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/login.jpg": "/static/media/login.fe7b9cc0682304983705.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/about.jpg": "/static/media/about.77c0ffac60f9218de675.jpg",
+    "static/media/daniel-olahh.jpg": "/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/logo.png": "/static/media/logo.17ed3b1aeea6ac458b74.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/index.html",
+    "main.afb6174e.css.map": "/static/css/main.afb6174e.css.map",
+    "main.e8e2ef89.js.map": "/static/js/main.e8e2ef89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb6174e.css",
+    "static/js/main.e8e2ef89.js"
+  ]
+}

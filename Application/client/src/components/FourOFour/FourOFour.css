@@ -1,0 +1,19 @@
+
+    
+.btn:hover{
+    background: green;
+    } 
+    /* btn-outline-secondary */
+/*     
+    .warning{
+        color: rgb(232, 222, 39);
+        border: 5px black;
+        padding: 10%;
+    } */
+    .warning{
+        color: rgb(255, 255, 255);
+    }
+    .warning:hover{
+        color: rgb(234, 0, 0);
+    }
+    
