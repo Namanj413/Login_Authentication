@@ -1,6 +1,20 @@
 # Login_Authentication
-Built a MERN Project where users can log in and sign up with the help of MongoDB. Used token authentication for Log In. Token stored in the local storage of the browser so users will be logged In until they want
-
+Built a MERN Project where users can log in and sign
+up with the help of MongoDB.
+1.Used token authentication for Log In.
+2.Token stored in the local storage of the browser so
+  users will be logged In until they want.
+3.Dynamic logout system when users press on the logout
+  button on the Nav bar their session & local storage will
+  be cleared in the browser.
+4.Dynamic routing with react-router also added 404 Pag
+  for unauthorized paths
+5.Component-based programming.
+6.Project is Live at Netlify with the help of FakeuserAPI f
+  login on Free Server. 
+  
+ <b>Login_Authentication <b>
+  
 Admin Acess
 UserID : 1
 Password: 1
