@@ -18,7 +18,8 @@ up with the help of MongoDB.
   2. Admin can delete members also can see the list of people which is added by him.
   3. Singup page is available for normal users
   
-Admin Acess
+Admin Login Details
+
 UserID : 1
 Password: 1
 
