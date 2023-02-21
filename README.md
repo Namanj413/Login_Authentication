@@ -15,8 +15,14 @@ up with the help of MongoDB.
   
  <b>Update @ Jan 2023<b>
   1. Admin can add members.
-  2. Admin can delete members also can see the list of people which is added by him.
+  2. Admin can delete members. Also can see the list of people which is added by Admin.
   3. Singup page is available for normal users
+  
+  
+  Working Updates
+  1. Schema Update for Conditional schema.
+  2. Shifting website to Next Js Framework
+  3. Much more...
   
 Admin Login Details
 
